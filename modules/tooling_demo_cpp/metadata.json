@@ -1,0 +1,18 @@
+{
+    "homepage": "https://www.vandalen.uk/code-documentation/",
+    "maintainers": [
+        {
+            "name": "Rogier van Dalen",
+            "email": "rogiervd@gmail.com",
+            "github": "rogiervd",
+            "github_user_id": 5202844
+        }
+    ],
+    "repository": [
+        "github:rogiervd/tooling_demo_cpp"
+    ],
+    "versions": [
+        "0.2.4"
+    ],
+    "yanked_versions": {}
+}
